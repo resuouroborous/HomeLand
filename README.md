@@ -5,6 +5,7 @@
 A Real Estate Website Using React JS And Tailwind CSS is a smooth and professional web application that provides living spaces available for renting out. 
 
 
+
 ## Features
 - Display of Houses & Apartments with their detailed information of amenities, price and personal agent.
 - User-friendly interface with simple navigation.
@@ -23,24 +24,14 @@ A Real Estate Website Using React JS And Tailwind CSS is a smooth and profession
   - Basic knowledge of JavaScript, React js, TailWind CSS & Node js.
   - Follow Cristian Mihai's Steps as it's clear and very simple to follow along and understand the code.
 
- 
-## Usage
-    1. Install npm by running the command 'npm i' in the terminal let it install all the required packages.
-    2. Once it's completed installing all the packages then run the command 'npm start' this should start the localhost portal 3000 or 3001 depending on the usage.
-    3. See real-time change as you code or if you have finished coding then you can see the finished live react app.
+## Start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
-  
-
-## Contributing
-shoutout to Cristian Mihai's code, like, comment or subscribe to his video on youtube. ( links in the live - preview )
+The page will reload if you make edits.
+You will also see any lint errors in the console.
 
 
 
 
 
-## Warning
-You need to get your own API Key and replace it in index.js file on line 9:
-
-```javascript
-const APIKey = 'Your Api Key';
-```
